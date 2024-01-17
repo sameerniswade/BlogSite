@@ -1,0 +1,22 @@
+body {
+  color: white;
+  background-color: black;
+  height: 100vh;
+}
+.centerElement {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  height: 100vh;
+}
+
+.imageHandler {
+  background-color: white;
+  height: 30vh;
+  color: gray;
+  font-size: 18px;
+  margin: 20px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
